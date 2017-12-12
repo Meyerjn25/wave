@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {
+	background-color: #153D49;
+	background-image: url(images/steven-coffey-99339.jpg), -webkit-linear-gradient(270deg,rgba(255,255,255,0.70) 0%,rgba(255,255,255,0.19) 100%);
+	background-image: url(images/steven-coffey-99339.jpg), -moz-linear-gradient(270deg,rgba(255,255,255,0.70) 0%,rgba(255,255,255,0.19) 100%);
+	background-image: url(images/steven-coffey-99339.jpg), -o-linear-gradient(270deg,rgba(255,255,255,0.70) 0%,rgba(255,255,255,0.19) 100%);
+	background-image: url(images/steven-coffey-99339.jpg), linear-gradient(180deg,rgba(255,255,255,0.70) 0%,rgba(255,255,255,0.19) 100%);
+	background-size: cover;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	opacity: 1;
+	color: #FFFFFF;
+}
+navbar {
+	background-color: #1C42A3;
+}
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+	opacity: 1;
+}
+.navbar.navbar-default {
+	background-image: url(url);
+	background-color: #3D5F80;
+}
+.turtle {
+}
